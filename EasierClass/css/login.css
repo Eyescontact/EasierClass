@@ -42,7 +42,7 @@ a[href^="http://tongji.baidu.com"]{display: none;}
 .w1096{ width:1096px; height:auto; margin:0 auto;}
 
 /*注册页面*/
-.login_bj{ background:url(../image/bj_zhuce.jpg) no-repeat top center;}
+.login_bj{ background:url(../image/login_register/bj_zhuce.jpg) no-repeat top center;}
 .zhuce_body{ float:left; width:100%; height:auto;}
 .zhuce_body .logo{ width:114px; height:54px; margin:53px 0 0 65px;}
 .zhuce_body .zhuce_kong{ position:absolute; top:50%; left:50%; width:600px; height:478px; margin-left:-300px; margin-top:-239px;}
@@ -54,10 +54,10 @@ a[href^="http://tongji.baidu.com"]{display: none;}
 .zhuce_body .zhuce_kong .zc .bj_bai .kuang_txt{ width:236px; height:32px; border:1px solid #dddddd; line-height:32px; padding-left:32px; color:#b1a9a9;  margin-bottom:10px; }
 .zhuce_body .zhuce_kong .zc .bj_bai .btn_zhuce{ width:270px; height:33px; background:#37b5f9; font-size:14px; line-height:33px; text-align:center; border:0px; color:#fff; border-radius:3px; cursor:pointer;}
 
-.zhuce_body .zhuce_kong .zc .bj_bai .phone{background:url(../images/zc_06.jpg) no-repeat 10px 10px;}
-.zhuce_body .zhuce_kong .zc .bj_bai .email{background:url(../images/zc_12.jpg) no-repeat 10px 10px;}
-.zhuce_body .zhuce_kong .zc .bj_bai .possword{background:url(../images/zc_16.jpg) no-repeat 10px 10px;}
-.zhuce_body .zhuce_kong .zc .bj_bai .yanzm{background:url(../images/zc_19.jpg) no-repeat 10px 10px; margin-bottom:0px;}
+.zhuce_body .zhuce_kong .zc .bj_bai .phone{background:url(../image/login_register/zc_06.jpg) no-repeat 10px 10px;}
+.zhuce_body .zhuce_kong .zc .bj_bai .email{background:url(../image/login_register/zc_12.jpg) no-repeat 10px 10px;}
+.zhuce_body .zhuce_kong .zc .bj_bai .possword{background:url(../image/login_register/zc_16.jpg) no-repeat 10px 10px;}
+.zhuce_body .zhuce_kong .zc .bj_bai .yanzm{background:url(../image/login_register/zc_19.jpg) no-repeat 10px 10px; margin-bottom:0px;}
 
 .zhuce_body .zhuce_kong .zc .bj_bai .hui_kuang{ float:left; width:97px; height:31px; border:1px solid #dddddd;}
 .zhuce_body .zhuce_kong .zc .bj_bai .shuaxin{ float:left; margin:0px 0 0 150px; width:14px; height:14px;}
@@ -70,9 +70,9 @@ a[href^="http://tongji.baidu.com"]{display: none;}
 .zhuce_body .zhuce_kong .zc .bj_right P { width:135px; font:12px/60px ""; color:#999999;}
 .zhuce_body .zhuce_kong .zc .bj_right P a{ color:#37b5f9;}
 .zhuce_body .zhuce_kong .zc .bj_right > a{ float:left; width:82px; height:28px; padding-left:51px; line-height:28px; margin-bottom:12px; border-radius:3px; }
-.zhuce_body .zhuce_kong .zc .bj_right .zhuce_qq{ border:1px solid #37b5f9; color:#37b5f9; background:url(../images/zc_03.jpg) no-repeat 28px 7px #fff;}
-.zhuce_body .zhuce_kong .zc .bj_right .zhuce_wb{ border:1px solid #f26d7e; color:#f26d7e; background:url(../images/zc_10.jpg) no-repeat 28px 7px #fff;}
-.zhuce_body .zhuce_kong .zc .bj_right .zhuce_wx{ border:1px solid #00c800; color:#00c800; background:url(../images/zc_15.jpg) no-repeat 28px 7px #fff;}
+.zhuce_body .zhuce_kong .zc .bj_right .zhuce_qq{ border:1px solid #37b5f9; color:#37b5f9; background:url(../image/login_register/zc_03.jpg) no-repeat 28px 7px #fff;}
+.zhuce_body .zhuce_kong .zc .bj_right .zhuce_wb{ border:1px solid #f26d7e; color:#f26d7e; background:url(../image/login_register/zc_10.jpg) no-repeat 28px 7px #fff;}
+.zhuce_body .zhuce_kong .zc .bj_right .zhuce_wx{ border:1px solid #00c800; color:#00c800; background:url(../image/login_register/zc_15.jpg) no-repeat 28px 7px #fff;}
 
 /*登录页面*/
 .zhuce_body .login_kuang{ position:absolute; top:50%; left:50%; width:512px; height:325px; margin-left:-256px; margin-top:-162px;}
